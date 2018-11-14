@@ -11,3 +11,6 @@ Pasos:
 5. Con "R" se busca la raíz en g(x) --> g(R) = R
 
 Después de las iteraciones que se necesiten, se obtiene la raíz
+
+En el código se tiene en 0 el primer término al igual que el siguiente. Se hace un ciclo de tipo for con un rango de 100 para que alcance a hacer las iteraciones necesitadas con el error que se indico, en este caso 0.001
+El siguiente valor, o sea x1 sera la función evaluada en el primer termino(x0) el cual al principio es 0 y después de obtener el error, se iguala a x1 dependiendo de si logró o no logró el error deseado 
